@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/rotor.unity
+    guid: 2877a47a0bbbaec489e13ffc37c4f739
+  - enabled: 1
+    path: Assets/Level 0.unity
+    guid: 6af0a9b7282b96e4797a289e3692d101
+  - enabled: 1
+    path: Assets/Level 1.unity
+    guid: 384fa615c16f70248ad6f0e5eee2bb9c
+  - enabled: 1
+    path: Assets/Level 2.unity
+    guid: 1bdec597e9201e045a1d4619c4909ad6
+  - enabled: 1
+    path: Assets/Level 3.unity
+    guid: c9a3fc115e68aef489012f10e26a23e5
+  - enabled: 1
+    path: Assets/Level 4.unity
+    guid: 02f697439c9c3b04b94a0f7a4ffd1eb7
+  - enabled: 1
+    path: Assets/Level 5.unity
+    guid: 10a4b68928907fd44b212190bf6144e9
+  - enabled: 1
+    path: Assets/Level 6.unity
+    guid: f39d56157835e064988dd0faf1a01c88
+  - enabled: 1
+    path: Assets/Level 7.unity
+    guid: 39b638c02c6283c4fb95032468f66267
+  - enabled: 1
+    path: Assets/Level 8.unity
+    guid: 919aa54719415a647b6348ce12e13efb
+  - enabled: 1
+    path: Assets/Arcade.unity
+    guid: 5f3e18b8c9da0fb4a928fea4c4cd9497
+  - enabled: 1
+    path: Assets/null.unity
+    guid: bbc7fe63038e76b428fe9e4b8f2e2e1d
+  m_configObjects: {}
