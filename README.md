@@ -1,4 +1,6 @@
 # R_TR
+## Google Play download
+Game finally got released, you can download it here [![GOOGLE PLAY DISTRIBUTION]](https://play.google.com/store/apps/details?id=com.rtr.rtr)
 ## Mobile for mobile platforms created in Unity.
 Game takes place in space. By tapping the screen you orbit the comet around nearby asteroids. Game features automatically generated music with ambient vibe, in FREE FLIGHT mode you basically create new ambient record every time you play.
 
